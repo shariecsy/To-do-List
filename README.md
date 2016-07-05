@@ -1,7 +1,7 @@
 # To-do-List by Sharie Chen
 To run the To-do List, please follow the steps below:
 
-1. open cmd in the file To_do List_Sharie and run the server.js with node command
+1. open cmd in the file To_do List_master and run the server.js with node command
 
 2. you may need to load the express module
 
