@@ -1,4 +1,0 @@
-var small = [];
-var big = function(){
-    console.log(222)
-    }
